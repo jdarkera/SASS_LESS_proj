@@ -1,3 +1,7 @@
-# Food Blog 
-converted the foodblog html page to pug using include and components. 
-Used Express.js templating engine.
+# SASS and LESS
+Wk4-day1-HW - convert e-commerce store landing page using LESS
+less principles used in your converting:
+● Variables
+● Nesting
+● Import
+● Mixin
